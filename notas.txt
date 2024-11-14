@@ -1,0 +1,109 @@
+trac de sede Riohacha
+
+23 de septiembre 46 muestras trackeadas
+24 de septiembre 79 muestras trackeadas
+25 de septiembre 46 muestras trackeadas
+26 de septiembre 67 muestras trackeadas
+27 de septiembre 42 muestras trackeadas
+30 de septiembre 56 muestras trackeadas
+
+
+2024100303567 - 100303799
+
+
+2024100103451 Fusagasugá
+2024100103498 Bucaramanga
+2024100209048 Montería
+
+
+Soporte Live-Lis grupos y correo
+Revisión de ajustes Live-Lis producción
+Ajustes de presolicitudes vacías
+Reuniones
+Capacitación modal paquetes Live - Lis Ecuador a personal de implementación
+Revisión de sedes asignadas a usuarios por reporte solicitado
+
+
+
+Facturas odoo
+Time out modificaciones
+
+
+
+Soporte Live-Lis
+Capacitación Post Analítico
+Validación de firmas personal Analítico
+Revisión de solicitudes de correo y grupos
+Modificación de sedes a usuarios Live-Lis
+Validación de tipos de muestra con doctor Iván Ramirez
+Validación de ordenes vacías y facturas sin transmitir
+Reporte de caso embarazo en si en la tabla de pacientes masculinos
+
+
+TRIAC Q6025
+Hilo de alambre esmaltado 0.8 mm
+Malla desoldadora
+
+lei0893@hotmail.com 
+
+
+desvalidación en segunda toca analito por analito
+responsive de verificación de paquetes
+
+.
+
+cuando se hace la desvalidacio en segunda, los exámenes en la lista de trabajo el h85 se duplica y el estado no cambia.
+
+estados diferentes
+
+2024103003895 con el 100211386
+
+Live-Lis : 2024102307570(anulada) - Athenea: 102308083 (anulada)
+
+
+2024110806953 anular
+
+alejandrogelviz1@gmail.com
+
+2024111204797 con el 110110152 
+2024111204829 con el 110110153 
+
+CC 38225338
+
+2024100103550 - 100103803
+
+
+Revisar casos de analítico, flujo completo, entender los casos que se presentan actualmente. Casos reportador para flujo de trabajo.
+
+Demora en filtro de hoja de trabajo en analítica
+Validar anexo cuando se ingresa resultado
+Duplicidad de exámenes
+Plantillas PTT cruzado A70
+Funcionalidad de permisos de analítico
+Ingreso de resultados en analitos y exámenes
+Guarde de resultados
+Validar firmas en caratulas que salga solo una firma y  no varias firmas
+
+
+
+Pruebas de resolución de facturación Vitalea
+
+
+1. cotizaciones
+2. laboratorio montajes
+3. reporte
+4. generación de vcf propio - bioinformática
+
+
+cargue de archivo fasq (blockstorage)
+vcf (archivo de texto plano separados por tecla tabular)
+filtro de la tabla (normalización, vcf secundario)
+paso de anotación (para cada registro se busca la información en la db y se enriquece en vcf, vfc teciario), se envia a la interfaz mediante una api
+
+en caso de fallar alguno de los tres passo se entrega un archivo con los errores y la interfaz muestra el error correspondiente
+
+cargue de archivo vcf a monto, lectura e interpretación hologen para los doctores
+
+
+
+
